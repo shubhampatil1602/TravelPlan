@@ -21,6 +21,6 @@ CLOUDINARY_API_SECRET=
 VITE_API_BASE_URL=http://localhost:8000
 ```
 
-**VITE_API_BASE_URLL**:
+**VITE_API_BASE_URL**:
 
 - The `VITE_API_BASE_URL` should point to the URL where your backend application is running (typically `http://localhost:8000` if you're running it locally).
