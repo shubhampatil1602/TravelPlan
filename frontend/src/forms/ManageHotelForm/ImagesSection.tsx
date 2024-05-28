@@ -5,8 +5,6 @@ const ImagesSection = () => {
   const {
     register,
     formState: { errors },
-    watch,
-    setValue,
   } = useFormContext<HotelFormData>();
   return (
     <div>
