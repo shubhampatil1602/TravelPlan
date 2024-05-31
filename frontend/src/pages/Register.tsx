@@ -122,6 +122,7 @@ const Register = () => {
             </span>
           )}
         </label>
+
         <span className='flex justify-between items-center'>
           <span className='text-sm'>
             Already Registered?{' '}
